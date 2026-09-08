@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1665536,
       "digest": "sha256:ff8be02c3fe01984ac93a057d6dc97a0e468ea3c75831f79e6f1a3a4abaaae7d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-29T03:53:11Z",
       "updated_at": "2026-08-29T03:53:11Z",
       "browser_download_url": "https://github.com/reemus-dev/gitnr/releases/download/v0.3.1/gitnr-win-amd64.exe"
