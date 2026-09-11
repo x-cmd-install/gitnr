@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2327776,
       "digest": "sha256:f4b7ca390171a439a4f2e8441895d6865b6d64f75a37bcd092a12f0c56029c1c",
-      "download_count": 56,
+      "download_count": 58,
       "created_at": "2026-08-29T03:52:06Z",
       "updated_at": "2026-08-29T03:52:07Z",
       "browser_download_url": "https://github.com/reemus-dev/gitnr/releases/download/v0.3.1/gitnr-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1540992,
       "digest": "sha256:aedb9e6afc16dbc11d4d8b84a2ef5f9c25242b9186e4238ed9ab824dbba4669f",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-29T03:51:58Z",
       "updated_at": "2026-08-29T03:51:59Z",
       "browser_download_url": "https://github.com/reemus-dev/gitnr/releases/download/v0.3.1/gitnr-macos-arm64"
