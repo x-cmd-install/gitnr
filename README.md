@@ -4,7 +4,7 @@
 
 Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
 
-![gitnr](https://repo.x-cmd.io/gitnr.svg)
+[![x-cmd/install — gitnr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitnr.svg)](https://x-cmd.com/install/gitnr)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **2,484** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 1 | 2 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-20 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last180d | 2026-03-22 | 2 | 2 | 1 | 0 | 0 | 10 |
-| 360d | 2025-09-23 | 2 | 3 | 1 | 0 | 1 | 12 |
-| last720d | 2024-09-28 | 3 | 6 | 1 | 3 | 1 | 31 |
+| 30d | 2026-08-21 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 1 | 2 | 0 | 0 | 0 | 5 |
+| 90d | 2026-06-22 | 1 | 2 | 0 | 0 | 0 | 5 |
+| last180d | 2026-03-24 | 2 | 2 | 1 | 0 | 0 | 10 |
+| 360d | 2025-09-25 | 2 | 3 | 1 | 0 | 1 | 12 |
+| last720d | 2024-09-30 | 3 | 6 | 1 | 3 | 1 | 31 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitnr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:29:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:22:11Z._
