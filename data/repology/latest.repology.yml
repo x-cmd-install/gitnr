@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: gitnr
+  visiblename: gitnr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Create `.gitignore` using templates from TopTal, GitHub or your own collection
 - repo: aur
   srcname: gitnr
   binname: gitnr
@@ -28,13 +35,6 @@
   version: 0.3.1
   origversion: null
   status: newest
-  summary: Create `.gitignore` using templates from TopTal, GitHub or your own collection
-- repo: homebrew
-  srcname: gitnr
-  visiblename: gitnr
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Create `.gitignore` using templates from TopTal, GitHub or your own collection
 - repo: nix_stable_24_05
   srcname: gitnr
@@ -133,7 +133,7 @@
   binname: gitnr
   visiblename: devel/gitnr
   version: 0.3.1
-  origversion: null
+  origversion: 0.3.1nb1
   status: newest
   summary: Create gitignore files using one or more templates
   maintainers:
