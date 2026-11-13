@@ -47,12 +47,12 @@ Total: **2,484** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-14 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-16 | 1 | 2 | 1 | 0 | 0 | 5 |
-| 360d | 2025-11-17 | 2 | 3 | 1 | 0 | 1 | 12 |
-| last720d | 2024-11-22 | 2 | 4 | 1 | 2 | 1 | 16 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-15 | 1 | 2 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-17 | 1 | 2 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-18 | 2 | 3 | 1 | 0 | 0 | 0 |
+| last720d | 2024-11-23 | 2 | 4 | 1 | 2 | 1 | 16 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Reported by **13** distros on [repology.org](https://repology.org/project/gitnr)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.3.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.3.1` | ✅ latest |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for gitnr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:58:46Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:25:17Z._
