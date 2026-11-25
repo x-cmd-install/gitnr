@@ -47,12 +47,12 @@ Total: **2,484** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 1 | 1 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 1 | 2 | 0 | 0 | 0 | 5 |
-| 360d | 2025-11-29 | 2 | 3 | 1 | 0 | 0 | 12 |
-| last720d | 2024-12-04 | 2 | 4 | 1 | 2 | 1 | 16 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 1 | 1 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 1 | 2 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-30 | 2 | 3 | 1 | 0 | 0 | 12 |
+| last720d | 2024-12-05 | 2 | 4 | 1 | 2 | 1 | 16 |
 
 ## Release assets
 
@@ -64,15 +64,6 @@ Total: **2,484** lines of code across **40** files in the top 5 languages.
 | [gitnr-macos-arm64](https://github.com/reemus-dev/gitnr/releases/download/v0.3.1/gitnr-macos-arm64) | 1.5 MiB | `native/darwin/arm64` |
 | [gitnr-win-amd64.exe](https://github.com/reemus-dev/gitnr/releases/download/v0.3.1/gitnr-win-amd64.exe) | 1.6 MiB | `other` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/gitnr). **6** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.3.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gitnr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitnr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +73,4 @@ Install metadata for gitnr lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:08:49Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:03Z._
